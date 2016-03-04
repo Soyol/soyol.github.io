@@ -333,3 +333,19 @@ section footer.footer-bg{
 
     padding-bottom: 90px;
 }
+
+.section-four-text{
+    font-family: 'Open sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: white;
+    line-height: 30px;
+
+}
+
+.red-back{
+  background-color: #e60034;
+    vertical-align: middle;
+  position: relative;
+  padding: 30px;
+}

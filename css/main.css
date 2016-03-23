@@ -151,6 +151,10 @@ button:focus {
 	-webkit-font-smoothing: antialiased;
 }
 
+.codrops-title{
+	color: black;
+}
+
 .codrops-icon span {
 	display: none;
 }

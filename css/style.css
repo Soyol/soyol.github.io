@@ -671,6 +671,18 @@ a.text-red:hover{
     border-color: #f1c40f;
 }
 
+.border-red{
+    border: 1px solid #f30860;
+}
+
+.border-gray{
+    border: 1px solid #565a5c;
+}
+
+.border-light-gray{
+    border: 1px solid #d2d2d2;
+}
+
 .back-yellow{
     background-color: #f1c40f !important;
 }
@@ -1231,6 +1243,36 @@ screen and (max-width: 640px) and (orientation: landscape) {
 .detail-menu a.active{
     border-bottom: 1px solid white;
     padding-bottom: 7px;
+}
+
+.color-choice{
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+
+.color-choice-border{
+    width: 18px;
+    height: 18px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+
+.step{
+    margin-top: 30px;
+}
+
+.category div{
+    margin-right: 10px;
+}
+
+.category div:last-child{
+    margin-right: 0 !important;
+}
+
+.margin-right-0{
+    margin-right: 0 !important;
 }
 
 

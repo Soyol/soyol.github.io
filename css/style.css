@@ -1101,7 +1101,7 @@ screen and (max-width: 640px) and (orientation: landscape) {
 .main-menu .menu-container a{
 
     letter-spacing: .09em;
-    margin-right: 30px;
+    margin-right: 20px;
     font-weight: 300;
     font-family: Gotham SSm,sans-serif;
     font-size: 11px;
@@ -1140,7 +1140,11 @@ screen and (max-width: 640px) and (orientation: landscape) {
 
 .menu-second{
     border-left: 1px solid #f5f5f5;
-    padding-left: 30px;
+    padding-left: 20px;
+}
+
+.tuslah{
+    position: absolute;
 }
 
 @-moz-keyframes arrow-anim {
@@ -1281,6 +1285,7 @@ screen and (max-width: 640px) and (orientation: landscape) {
 
 .category div{
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .category div:last-child{
@@ -1291,15 +1296,122 @@ screen and (max-width: 640px) and (orientation: landscape) {
     margin-right: 0 !important;
 }
 
+.tuslah-menu-medium{
+    position: absolute;
+    right: 0;
+    width: 109px;
+
+}
+
+.tuslah-menu{
+    position: absolute;
+    right: 0;
+    border-left: 1px solid #f5f5f5;
+    border-bottom: 1px solid #f5f5f5;
+    width: 149px;
+    background: #fff;
+    display: none;
+}
+
+.tuslah-menu a{
+    display: block !important;
+    padding-left: 10px;
+    border-top: 1px solid #f5f5f5; 
+}
+
+.margin-right-20{
+    margin-right: 20px !important;    
+}
+
 
 /* END Style */
 
 @media (min-width: 760px) and (max-width: 960px){
+    .footer-menu{
+        display: block !important;
+    }
 
+    .footer-menu div{
+        width: 30% !important;
+        display: -webkit-inline-box !important;
+        margin-bottom: 20px;
+        text-align: center !important;
+    }
+
+     .footer-menu div a{
+        margin-right: 0 !important;
+        text-align: center !important;
+     }
 }
 
 @media (max-width: 760px){
    .small-center{
         text-align: center !important;
+   }
+
+   h1.text-42{
+    font-size: 36px !important;
+    line-height: 44px !important
+   }
+
+   .logo-container{
+    margin-top: 50px;
+   }
+
+   .logo-container img{
+    width: 150px !important;
+   }
+
+   .section-one-back .text-16{
+    font-size: 14px !important
+   }
+
+   .mobile-menu{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        position: fixed;
+        z-index: 1000 !important;
+        border-bottom: 1px solid #f5f5f5;
+        border-left: 1px solid #f5f5f5;
+        right: 0;
+   }
+
+   .mobile-menu .border-right{
+        border-right: 1px solid #f5f5f5;
+   }
+
+   .about-section img{
+    width: 150px;
+   }
+
+   .small-margin-top-30{
+    margin-top: 30px;
+   }
+
+   .small-text-10{
+    font-size: 10px !important; 
+   }
+
+   #mobile-menu ul li{
+    border-bottom: 1px solid #2f2f2f;
+    font-size: 13px !important;
+   }
+
+   .mobile-menu-social{
+        padding: 10px 15px;
+   }
+
+   .mobile-menu-social a{
+    margin-right: 10px;
+   }
+
+   .section-detail-one{
+        height: 130px;
+   }
+
+   .detail-margin-top-30{
+        margin-top: 30px !important;
    }
 }

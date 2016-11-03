@@ -28,7 +28,17 @@
 
 </head>
 <body>
+
+	<div class="back-white  mobile-menu uk-visible-small" >
+		<div class="uk-text-right ">
+			<a href="#" class="text-red" data-uk-offcanvas="{target:'#mobile-menu'}">
+				<i class=" uk-icon-bars text-18"></i>
+			</a>
+		</div>
+	</div>
+
 	<div class="uk-position-relative section-one-back uk-height-viewport" >
+
 	    <div class="uk-position-cover">
 	    	<div class="uk-container uk-container-center">
 	    		<div class="uk-vertical-align uk-height-viewport">
@@ -36,11 +46,11 @@
 	    	    		<div class="logo-container">
 			    			<a href="index.html"><img src="img/logo.png" width="200" /></a>
 			    		</div>
-			    		<h1 class="uk-text-bold text-uppercase text-white text-42 letter-space-08">
+			    		<h1 class="uk-text-bold text-uppercase text-white text-42 letter-space-08 ">
 			    			Цор ганц түүнд зориулав
 			    			<span class="text-red">.</span>
 			    		</h1>
-			    		<p class="text-white margin-top-20 text-16">Бид танд гар хийцийн чанартай бүтээгдэхүүн санал болгох бөгөөд зөвхөн<br> түүнд л зориулж ганцхан хувийг хийх тул өөрийн хүссэн<br> өнгө, загвар, хэмжээтэй хийлгэх боломжтой.</p>
+			    		<p class="text-white margin-top-20 text-16">Бид танд гар хийцийн чанартай бүтээгдэхүүн санал болгох бөгөөд зөвхөн<br class="uk-hidden-small"> түүнд л зориулж ганцхан хувийг хийх тул өөрийн хүссэн<br class="uk-hidden-small"> өнгө, загвар, хэмжээтэй хийлгэх боломжтой.</p>
 			    		<p class="margin-top-50">
 			    			<a href="order.html">
 			    				<button class="order-btn text-uppercase">Захиалга хийх</button>
@@ -50,12 +60,12 @@
 	    		</div>
 
 
-	    		<div class="down-arrow">
+	    		<div class="down-arrow uk-hidden-small">
 	    			<img src="img/down-arrow.svg" />
 	    		</div>
 	    	</div>
 
-	    	<div class="main-menu" >
+	    	<div class="main-menu uk-hidden-small" >
 	    		<div class="uk-container uk-container-center z-index-100 back-white" data-uk-sticky>
 		    		<div class="menu-container text-uppercase">
 						<a href="index.html" class="uk-active text-red">
@@ -65,17 +75,36 @@
 		    			<a href="lovebook.html" class="">Хайрын ном</a>
 		    			<a href="kidsbook.html" class="">Хүүхдийн ном</a>
 
-		    			<a href="about.html" class="menu-second">
-		    				<i class="uk-icon-heart padding-right-5"></i>
-		    				Бидний тухай
-		    			</a>
-		    			<a href="contact.html" class="">
-		    				<i class="uk-icon-phone padding-right-5"></i>
-		    				Холбоо барих
-		    			</a>
-		    			<a href="https://www.facebook.com/Zowhontuund/" target="_blank" class="menu-second text-red"><i class="uk-icon-facebook"></i></a>
-		    			<a href="#" class="text-red"><i class="uk-icon-pinterest"></i></a>
-		    			<a href="https://www.instagram.com/zowhon_tuund/" target="_blank" class="text-red"><i class="uk-icon-instagram"></i></a>
+			            <a  class="menu-second uk-visible-medium tuslah-menu-medium">
+			            	<i class="uk-icon-bars padding-right-5 text-red"></i>
+    						Туслах цэс
+			            </a>
+
+			            <div class="tuslah-menu uk-visible-medium">
+							<a href="about.html" class="">
+			    				<i class="uk-icon-heart padding-right-5"></i>
+			    				Бидний тухай
+			    			</a>
+	    					<a href="contact.html" class="">
+			    				<i class="uk-icon-phone padding-right-5"></i>
+			    				Холбоо барих
+			    			</a>
+						</div>
+					            
+		    			<span class="uk-hidden-medium ">
+			    			<a href="about.html" class="menu-second">
+			    				<i class="uk-icon-heart padding-right-5"></i>
+			    				Бидний тухай
+			    			</a>
+			    			<a href="contact.html" class="margin-right-20">
+			    				<i class="uk-icon-phone padding-right-5"></i>
+			    				Холбоо барих
+			    			</a>
+			    		</span>
+			    			<a href="https://www.facebook.com/Zowhontuund/" target="_blank" class="menu-second text-red"><i class="uk-icon-facebook"></i></a>
+			    			<a href="#" class="text-red"><i class="uk-icon-pinterest"></i></a>
+			    			<a href="https://www.instagram.com/zowhon_tuund/" target="_blank" class="text-red"><i class="uk-icon-instagram"></i></a>
+		    			
 		    		</div>
 	    		</div>
 	    	</div>
@@ -154,9 +183,9 @@
 	</section>
 
 
-	<section class="section-three padding-top-bottom-90"  data-uk-parallax="{bg: '-200'}">
+	<section class="section-three padding-top-bottom-90"  data-uk-parallax="{media: 1200, bg: '-200'}">
 		<div class="uk-container uk-container-center uk-text-center">
-			<div class="">
+			<div class="about-section">
 				<img src="img/logo-red.png" width="200" />
 				<h3 class="text-uppercase uk-text-center letter-space-20 text-medium">
 					Цор ганц хувилбарыг <span class="text-red">зөвхөн түүндээс</span>
@@ -177,13 +206,14 @@
 				</h3>
 				<p class="uk-width-large-2-3 uk-width-medium-3-4 uk-width-small-1-1 uk-container-center uk-text-center text-light">
 					Та өөрийн санал, хүсэлтээ 
-					<a href="mailto:noreply@boo.mn"><strong>noreply@boo.mn</strong></a> хаягаар болон манай 
-					<a href="http://facebook.com/zowhontuund">
+					<a href="mailto:noreply@boo.mn" class="text-black">
+						<strong>noreply@boo.mn</strong></a> хаягаар болон манай 
+					<a href="http://facebook.com/zowhontuund" class="text-black">
 						<strong>facebook</strong>
 					</a>  хаягаар холбогдон өгөх боломжтой.
 				</p>
 			</div>
-			<div class="uk-grid margin-top-40" data-uk-grid-match="target:'.back-gray'">
+			<div class="uk-grid margin-top-40" data-uk-grid-margin data-uk-grid-match="target:'.back-gray'">
 				<div class="uk-width-large-1-3 uk-width-medium-1-3 uk-width-small-1-1">
 					<div class="back-gray uk-text-center padding-30 border-bottom-red">
 						<div class=""><img src="img/setgegdel1.png" width="70" /></div>
@@ -235,7 +265,7 @@
 			<div class="uk-grid">
 				<div class="uk-width-large-2-3 uk-width-medium-2-3 uk-width-small-1-1">
 					<div class="uk-text-middle">
-						<h3 class="text-uppercase uk-text-left letter-space-20 text-medium">
+						<h3 class="text-uppercase uk-text-left letter-space-20 text-medium small-center">
 							Бидэнтэй 
 							<span class="text-red">хамтран ажиллах санал хүсэлтийг</span> 
 							дараах хаягуудаар хүлээн авч байна.
@@ -243,8 +273,8 @@
 					</div>
 				</div>
 				<div class="uk-width-large-1-3 uk-width-medium-1-3 uk-width-small-1-1">
-					<div class="uk-text-right">
-						<a class="read-three-btn uk-display-inline-block text-uppercase" href="contact.html">Холбоо барих</a>
+					<div class="uk-text-right small-center">
+						<a class="read-three-btn uk-display-inline-block text-uppercase small-margin-top-30" href="contact.html">Холбоо барих</a>
 					</div>
 				</div>
 			</div>
@@ -259,7 +289,7 @@
 				</a>
 			</div>
 
-			<div class="uk-flex uk-flex-center margin-top-20 footer-menu text-uppercase uk-text-center">
+			<div class="uk-flex uk-flex-center margin-top-20 footer-menu text-uppercase uk-text-center uk-hidden-small">
 				<div><a class="active" href="index.html">Нүүр хуудас</a></div>
 				<div><a href="notebook.html">Тэмдэглэлийн дэвтэр</a></div>
 				<div><a href="lovebook.html">Хайрын ном</a></div>
@@ -275,10 +305,41 @@
 			</div>
 
 		</div>
-		<div class="uk-text-center padding-top-bottom-20 text-12 letter-space-1-5" >
+		<div class="uk-text-center padding-top-bottom-20 text-12 letter-space-1-5 small-text-10" >
 			&copy; 2016. Бүх эрх хуулиар хамгаалагдсан. 
 		</div>
 	</footer>
+
+
+	<div id="mobile-menu" class="uk-offcanvas">
+	    <div class="uk-offcanvas-bar uk-offcanvas-bar-flip">
+	        <ul class="uk-nav uk-nav-offcanvas text-uppercase" data-uk-nav>
+	        	<li class="uk-active">
+	        		<a href="index.html">Нүүр хуудас</a>
+	        	</li>
+	        	<li><a href="notebook.html">Тэмдэглэлийн дэвтэр</a></li>
+	        	<li><a href="lovebook.html">Хайрын ном</a></li>
+	        	<li><a href="kidsbook.html">Хүүхдийн ном</a></li>
+	        	<li class="uk-nav-header">Туслах цэс</li>
+	        	<li><a href="about.html">
+	        			<i class="uk-icon-heart padding-right-5"></i>
+	        			Бидний тухай
+	        		</a>
+	        	</li>
+	        	<li>
+	        		<a href="contact.html">
+	        			<i class="uk-icon-phone padding-right-5"></i>
+	        			Холбоо барих
+	        		</a>
+	        	</li>
+	        </ul>
+	        <div class="mobile-menu-social uk-text-right">
+		        <a href="https://www.facebook.com/Zowhontuund/" class="text-white"><i class="uk-icon-facebook"></i></a>
+				<a href="#" class="text-white"><i class="uk-icon-pinterest"></i></a>
+				<a href="https://www.instagram.com/zowhon_tuund/" target="_blank" class="text-white"><i class="uk-icon-instagram"></i></a>
+			</div>
+	    </div>
+	</div>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script type="text/javascript" src="js/uikit.min.js"></script>

@@ -482,6 +482,10 @@ blockquote {
     background-color: #f30860;
 }
 
+a.back-red:hover{
+    background-color: #c1024a;
+}
+
 .back-gray{
     background-color: #f7f7f7;
 }
@@ -1028,6 +1032,18 @@ screen and (max-width: 640px) and (orientation: landscape) {
     padding: 20px 40px 20px 40px;
 
     box-shadow: inset 0 0 0 0 #f30860;
+
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.general-btn{
+    border-style: none;
+    outline: none;
+    letter-spacing: .09em;
+    padding: 20px 40px 20px 40px;
 
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;

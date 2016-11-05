@@ -168,7 +168,9 @@ blockquote {
     color: black;
 }
 
-
+.margin-top-0{
+    margin-top: 0px !important;
+}
 
 .margin-top-10{
     margin-top: 10px;
@@ -677,10 +679,23 @@ a.text-red:hover{
 
 .border-red{
     border: 1px solid #f30860;
+
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+a.border-red:hover{
+    background: #f30860;
 }
 
 .border-gray{
     border: 1px solid #565a5c;
+}
+
+.messenger-btn{
+    padding: 15px 30px 15px 30px;
 }
 
 .border-light-gray{

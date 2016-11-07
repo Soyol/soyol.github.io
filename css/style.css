@@ -688,10 +688,15 @@ a.text-red:hover{
 
 a.border-red:hover{
     background: #f30860;
+    color: white;
 }
 
 .border-gray{
     border: 1px solid #565a5c;
+}
+
+.border-light-gray{
+    border: 1px solid #ddd;
 }
 
 .messenger-btn{

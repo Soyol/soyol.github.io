@@ -1038,7 +1038,7 @@ screen and (max-width: 640px) and (orientation: landscape) {
 }
 
 .section-one-back{
-    background: url('../img/section-one-back.jpg') no-repeat;
+    background: url('../img/section-one-back.jpg') bottom no-repeat;
     background-size: cover;
 }
 

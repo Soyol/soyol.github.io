@@ -1,0 +1,772 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>JCI ASPAC 2017 -  Hotel mapping</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>HQ</name>
+			<Placemark>
+				<name>Shangri La hotel</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9213057,47.913656200000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blue Sky hotel</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9186503,47.91644990000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BEST WESTERN PREMIER Tuushin Hotel</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92046299999993,47.920286000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corporate CC hotel</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9216275,47.9038792,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone 1</name>
+			<Placemark>
+				<name>Zone 1</name>
+				<styleUrl>#poly-7CCFA9-1-61-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>106.9154906,47.9220655,0.0 106.9161558,47.9168885,0.0 106.9144607,47.9155655,0.0 106.9139886,47.9106611,0.0 106.9179368,47.910143299999994,0.0 106.923151,47.91186929999999,0.0 106.927464,47.9125453,0.0 106.9271636,47.9146738,0.0 106.9252324,47.9178664,0.0 106.92392350000001,47.917622,0.0 106.922915,47.9225544,0.0 106.9154906,47.9220655,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone I hotel</name>
+			<Placemark>
+				<name>The Continental Hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92459420000002,47.9126251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bayangol hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9139403,47.912423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nine hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92184750000001,47.920401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corporate hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9140583,47.9131313,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mika Hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.925656,47.91489900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Springs Hotel Ulaanbaatar Mongolia</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92135200000007,47.915524,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ulaanbaatar hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.922636,47.9182835,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khuvsgul lake hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.920619,47.9193333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Puma-Imperial Hotel</name>
+				<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.91953009999997,47.9213524,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone 2</name>
+			<Placemark>
+				<name>Zone II</name>
+				<styleUrl>#poly-9FC3FF-1-82-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>106.9134951,47.9258903,0.0 106.910727,47.92348900000001,0.0 106.9112849,47.9201673,0.0 106.9119287,47.9167303,0.0 106.9070578,47.9163133,0.0 106.90785170000001,47.9127897,0.0 106.9083881,47.91238700000001,0.0 106.9086242,47.9116967,0.0 106.9074655,47.9107187,0.0 106.9071865,47.9083023,0.0 106.9133019,47.9081872,0.0 106.911242,47.9041165,0.0 106.9138169,47.9039727,0.0 106.9282365,47.9042028,0.0 106.9309402,47.9044186,0.0 106.9309187,47.90814410000001,0.0 106.9300604,47.91273220000001,0.0 106.9294381,47.9188731,0.0 106.9311333,47.9207281,0.0 106.93156240000002,47.92330210000001,0.0 106.922915,47.9225544,0.0 106.9222927,47.9244524,0.0 106.9187737,47.926264200000006,0.0 106.9134951,47.9258903,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone II hotels</name>
+			<Placemark>
+				<name>Kaiser hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9273353,47.91625580000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AB hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9275498,47.9151052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Asar Hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.90883940000003,47.9141653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>J hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9294676,47.9139349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Urguu hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9149542,47.9197359,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zaluuchuud hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.921944,47.9246034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alpha hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92984580000007,47.9087769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Platinum Hotel</name>
+				<styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92687360000004,47.9166397,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone III hotels</name>
+			<Placemark>
+				<name>Bishrelt Hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9068432,47.9235106,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chinggis Khaan Hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.93409199999996,47.922089,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UB City hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.90212850000002,47.90021469999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Narantuul Hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.895893,47.915627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flower Hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9381607,47.9244956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guide Hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.91876430000002,47.926948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Holiday Inn Ulaanbaatar</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.90560299999993,47.922115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Premium Hotel Ulaanbaatar</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.90124270000001,47.92463980000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San hotel</name>
+				<styleUrl>#icon-503-FFDD5E-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.91140289999998,47.9266175,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone IV hotels</name>
+			<Placemark>
+				<name>Evergreen Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.892877,47.9098807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New World Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.92459150000002,47.9319237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kempinski Hotel Khan Palace</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.94394799999998,47.919838,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Grand Hill</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.88383249999993,47.9182999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Angara Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.892134,47.910834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ramada Ulaanbaatar Citycenter</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.89234290000002,47.9154699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Naranbulag Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.87727589999997,47.90990600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zaisan Gate hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.914525,47.8869096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.95291729999997,47.9213117,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khunnu Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.93039829999998,47.92989479999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mungun toig hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.8606234,47.9144724,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TOTO Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.87796000000003,47.914158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New West Hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.86200699999995,47.913947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dulguun nuur hotel</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.9134951,47.9289529,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Best Western Gobi's Kelso</name>
+				<styleUrl>#icon-503-A61B4A-nodesc</styleUrl>
+				<Point>
+					<coordinates>106.8767381,47.9103447,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone 3</name>
+			<Placemark>
+				<name>Zone III</name>
+				<styleUrl>#poly-FFDD5E-1-56-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>106.9052339,47.9281477,0.0 106.9035817,47.9271844,0.0 106.90152170000002,47.9246682,0.0 106.9001484,47.921404,0.0 106.8983889,47.91864300000002,0.0 106.8945265,47.9154792,0.0 106.8950844,47.9088345,0.0 106.8931532,47.9039727,0.0 106.8930673,47.8978732,0.0 106.9129801,47.898177,0.0 106.9318628,47.8988515,0.0 106.93096160000002,47.8999448,0.0 106.9437504,47.9033398,0.0 106.9433641,47.9082879,0.0 106.943922,47.915134000000016,0.0 106.941905,47.9241073,0.0 106.94122940000001,47.9273929,0.0 106.9349746,47.929068,0.0 106.92847250000001,47.9300024,0.0 106.92370890000001,47.9295711,0.0 106.9127655,47.9287084,0.0 106.9052339,47.9281477,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone IV</name>
+			<Placemark>
+				<name>Zone IV</name>
+				<styleUrl>#poly-EE9C96-1-61-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>106.9164231,47.9289861,0.0 106.9053724,47.9279653,0.0 106.8899014,47.9231772,0.0 106.8642381,47.9225445,0.0 106.8551401,47.9204738,0.0 106.8547968,47.9125354,0.0 106.8765977,47.8931445,0.0 106.8933116,47.8960252,0.0 106.906562,47.8956799,0.0 106.9100973,47.8862403,0.0 106.9401882,47.8849154,0.0 106.9383268,47.8925405,0.0 106.9320012,47.8986691,0.0 106.9438888,47.9031574,0.0 106.9435025,47.9081055,0.0 106.9611406,47.9074151,0.0 106.9610548,47.9234073,0.0 106.9499827,47.9235798,0.0 106.9419147,47.9269157,0.0 106.9364215,47.9286986,0.0 106.9293833,47.9298488,0.0 106.9216587,47.9293887,0.0 106.9164231,47.9289861,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zone V hotels</name>
+		</Folder>
+		<Style id='icon-503-009D57-nodesc-normal'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-009D57-nodesc-highlight'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-009D57-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-009D57-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-009D57-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-3F5BA9-nodesc-normal'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-3F5BA9-nodesc-highlight'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-3F5BA9-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-3F5BA9-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-3F5BA9-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-A61B4A-nodesc-normal'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-A61B4A-nodesc-highlight'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-A61B4A-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-A61B4A-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-A61B4A-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-FFDD5E-nodesc-normal'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-FFDD5E-nodesc-highlight'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-FFDD5E-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-FFDD5E-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-FFDD5E-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-7CCFA9-1-61-nodesc-normal'>
+			<LineStyle>
+				<color>ffA9CF7C</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>3DA9CF7C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-7CCFA9-1-61-nodesc-highlight'>
+			<LineStyle>
+				<color>ffA9CF7C</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>3DA9CF7C</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-7CCFA9-1-61-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-7CCFA9-1-61-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-7CCFA9-1-61-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-9FC3FF-1-82-nodesc-normal'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>52FFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-9FC3FF-1-82-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>52FFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-9FC3FF-1-82-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-9FC3FF-1-82-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-9FC3FF-1-82-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EE9C96-1-61-nodesc-normal'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>3D969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-EE9C96-1-61-nodesc-highlight'>
+			<LineStyle>
+				<color>ff969CEE</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>3D969CEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-EE9C96-1-61-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EE9C96-1-61-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EE9C96-1-61-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFDD5E-1-56-nodesc-normal'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>385EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFDD5E-1-56-nodesc-highlight'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>385EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFDD5E-1-56-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFDD5E-1-56-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFDD5E-1-56-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
